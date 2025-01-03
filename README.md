@@ -7,3 +7,4 @@
 ```python
 ptint ("Hellow,new world!");
 ```
+![SWPU](微信图片_20240927224606.jpg)
